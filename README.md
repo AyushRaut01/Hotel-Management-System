@@ -1,3 +1,6 @@
+Visit site - https://ayushraut01.github.io/Hotel-Management-System/
+(Backend is not connected as it need Xamp server for working)
+
 # Hotel Management System
 
 ## Overview
